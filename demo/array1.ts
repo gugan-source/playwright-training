@@ -1,0 +1,13 @@
+let language: string[] = ['Tamil', 'English', 'Hindi'];
+language.push('French');
+console.log("language: " + language);   
+language.pop();
+console.log("language after pop: " + language);   
+language.unshift('Spanish');
+console.log("language after unshift: " + language);   
+language.shift();
+console.log("language after shift: " + language);
+console.log(language.indexOf('English'));
+language.reverse();
+console.log("language after reverse: " + language);
+console.log("language length: " + language.length);
