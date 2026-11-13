@@ -1,4 +1,5 @@
 //inheritance  means one class may use other class properties using extend keyword
+//here teacher class is child class and student class is parent class
 class students{
     display()
     {
