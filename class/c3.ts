@@ -4,7 +4,6 @@ class students{
     {
         console.log("i am student")
     }
-
 }
 class teacher extends students{
     display1()
